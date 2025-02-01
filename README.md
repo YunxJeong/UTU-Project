@@ -21,7 +21,3 @@ In this unique action-adventure game, players find themselves trapped in a myste
 
 ## Development 🎮
 This project is being developed using the Godot Engine, focusing on creating an immersive experience with unique gameplay mechanics and engaging storytelling.
-
-## Contact
-[Your contact information or social media links here]
-
